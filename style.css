@@ -32,7 +32,7 @@ body {
 
 .logo {
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .nav a {
@@ -49,7 +49,7 @@ body {
 
 .menu-toggle {
   display: none;
-  font-size: 28px;
+  font-size: 24px;
   cursor: pointer;
 }
 
@@ -76,7 +76,7 @@ body {
 }
 
 .home-text h1 {
-  font-size: 2.2rem;
+  font-size: 1.7rem;
   margin-bottom: 10px;
 }
 
@@ -85,7 +85,7 @@ body {
 }
 
 .home-text p {
-  font-size: 1.1rem;
+  font-size: 0.8rem;
   margin-bottom: 20px;
   color: #333;
 }
@@ -193,7 +193,7 @@ body {
   text-align: center;
 }
 .footer p {
-font-size: 3.2rem;
+font-size: 2.2rem;
 }
 
 /* RESPONSIVE */
@@ -225,14 +225,14 @@ font-size: 3.2rem;
 
 /* HEADINGS */
 .section h2 {
-  font-size: 2.9rem; /* bigger main headings */
+  font-size: 2.2rem; /* bigger main headings */
   margin-bottom: 25px;
   color: #06094e;
   font-weight: 700;
 }
 
 .home-text h1 {
-  font-size: 3.8rem; /* home main heading */
+  font-size: 3.1rem; /* home main heading */
   margin-bottom: 15px;
 }
 
@@ -241,42 +241,43 @@ font-size: 3.2rem;
 }
 
 .home-text h3 { /* home subheading / description */
-    font-size: 2.3rem;
+    font-size: 1.8rem;
     margin-bottom: 25px;
   color: #e50067;
 }
 
 .home-text a { /* home subheading / description */
-    font-size: 2.3rem;
+    font-size: 1.8rem;
     margin-bottom: 25px;
   color: #360d68;
 }
 
 /* ABOUT / GENERAL PARAGRAPHS */
 .section p {
-  font-size: 1.9rem; /* general paragraph size */
+  font-size: 1.4rem; /* general paragraph size */
   margin-bottom: 15px;
   line-height: 1.8;
 }
 
 /* SKILLS */
 .skills-list li {
-  font-size: 1.8rem; /* skill pills slightly bigger */
+  font-size: 1.4rem; /* skill pills slightly bigger */
 }
 
 /* INTERNSHIP & PROJECT CARDS */
 .internship-card h3,
 .card h3 {
-  font-size: 1.6rem; /* card titles bigger */
+  font-size: 1.3rem; /* card titles bigger */
   margin-bottom: 8px;
 }
 
 .internship-card p,
 .card p {
-  font-size: 1.6rem; /* card text bigger */
+  font-size: 1.2rem; /* card text bigger */
 }
 
 /* CONTACT */
 #contact p a {
-  font-size: 1.6rem; /* contact links bigger */
+  font-size: 1.2rem; /* contact links bigger */
 }
+
